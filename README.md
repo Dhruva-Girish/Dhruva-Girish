@@ -4,7 +4,7 @@
 
 I'm a Computer Science (AI/ML) student at PES University passionate about **Artificial Intelligence, Machine Learning, and building practical AI-powered applications**. I enjoy exploring how machine learning and modern AI can be used to solve real-world problems and create meaningful software solutions.
 
-I have gained hands-on experience through academic projects and as a **Developer Intern at Hindustan Aeronautics Limited (HAL)**. My experience includes building software applications, working with machine learning and deep learning models, and developing AI-powered solutions.
+I have gained hands-on experience through academic projects and as a **Developer Intern at Hindustan Aeronautics Limited (HAL)**. My experience includes software development, working with machine learning and deep learning models, and developing AI-powered solutions.
 
 ### 🤖 Areas I'm Interested In
 
