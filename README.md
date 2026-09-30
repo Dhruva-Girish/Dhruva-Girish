@@ -2,12 +2,11 @@
 
 # Hi, I'm Dhruva Girish
 
-B.Tech Computer Science (AI & ML), PES University • Developer Intern @ HAL • Bengaluru, India
+B.Tech Computer Science (AI & ML), PES University • Bengaluru, India
 
 [LinkedIn](https://www.linkedin.com/in/dhruva-girish) • [Email](mailto:dhruva.girish@outlook.com)
 
 </div>
----
 
 ## Tech stack
 
