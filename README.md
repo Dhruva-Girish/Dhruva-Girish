@@ -6,15 +6,6 @@ I'm a Computer Science (AI/ML) student at PES University passionate about **Arti
 
 I have gained hands-on experience through academic projects and as a **Developer Intern at Hindustan Aeronautics Limited (HAL)**. My experience includes software development, working with machine learning and deep learning models, and developing AI-powered solutions.
 
-### 🤖 Areas I'm Interested In
-
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Generative AI & LLMs
-* AI-Powered Applications
-* Software Engineering
-
 ---
 
 ## 🛠️ Tech Stack
@@ -56,6 +47,12 @@ I have gained hands-on experience through academic projects and as a **Developer
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+
+---
+## GitHub Stats
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=DDhruva-Girish\&theme=github-dark)
 
 ---
 
