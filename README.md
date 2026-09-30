@@ -4,6 +4,10 @@
 
 B.Tech Computer Science (AI & ML), PES University • Bengaluru, India
 
+Computer Science (AI/ML) student at PES University with a strong foundation in Artificial Intelligence, Machine Learning, and Software Engineering. I am passionate about building intelligent, reliable software systems and applying AI to solve real-world problems.
+
+I have gained hands-on experience through academic projects and my internship as a Developer at Hindustan Aeronautics Limited (HAL), where I worked on enterprise application development and explored the integration of AI with practical software engineering solutions.
+
 [LinkedIn](https://www.linkedin.com/in/dhruva-girish) • [Email](mailto:dhruva.girish@outlook.com)
 
 </div>
