@@ -69,4 +69,4 @@ I am interested in building **AI-powered applications, intelligent software syst
 
 ### 🌱 Currently Building & Exploring
 
-**AI Engineering • Generative AI • LLM Applications • Agentic AI **
+**AI Engineering • Generative AI • LLM Applications • Agentic AI**
