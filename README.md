@@ -52,7 +52,7 @@ I have gained hands-on experience through academic projects and as a **Developer
 ## GitHub Stats
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DDhruva-Girish\&theme=github-dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruva-Girish\&theme=github-dark)
 
 ---
 
